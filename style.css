@@ -77,8 +77,26 @@ nav ul li a:hover{
     margin-bottom: 15px;
 }
 
-.hero-container p{
-    font-size: 17px;
+.hero-container h2{
+    font-size: 25px;
     color: #ffffff;
-   
+    margin-bottom: 15px;
+}
+
+.contact1{
+    background: transparent;
+    border: 2px solid #ccc;
+    border-radius: 18px;
+    color:#ccc;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 13px;
+}
+
+.contact1 a{
+    color :#ccc;
+}
+
+.contact1 a:hover{
+    color  : skyblue;
 }
